@@ -4,7 +4,7 @@
 local mq = require('mq')
 
 ---@type Note
-local Note = require('lib.Note')
+local Note = require('Note')
 
 local TLO = mq.TLO
 local DanNet = TLO.DanNet
